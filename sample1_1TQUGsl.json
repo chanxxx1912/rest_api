@@ -1,0 +1,115 @@
+{
+    "name": "Chandana",
+    "age": 23,
+    "address": {
+        "street": "123 Main St",
+        "city": "Bangalore",
+        "state": "karnataka",
+        "zip": "1234500"
+    },
+    "phoneNumbers": [
+        {
+            "type": "home",
+            "number": "99647528268"
+        },
+        {
+            "type": "work",
+            "number": "8147464958"
+        }
+    ],
+    "fruits": [{
+       "grapes": "yes",
+       "mango": "no"
+       
+    }],
+    "yes" : [
+        "yes", "no","yest"
+    ],
+    "sample1array":[{
+        "truth":"dare",
+        "work": "hard",
+        "will": "way"
+  
+  
+    },
+    {
+        "barline": "moneyheist",
+        "education": "ottus"
+        
+    }
+     
+  
+  
+  ],
+  
+  
+      "id": "1",
+      "type": "icecream",
+      
+      "image":
+          {
+              "url": "img/01.png",
+              "width": 200,
+              "height": 200
+          },
+      "thumbnail":
+          {
+              "url": "images/thumbnails/01.png",
+              "width": 32,
+              "height": 32
+          },
+  
+    "HELLO":
+      { 
+        "data": [
+          {
+              "MainId": 1111,
+              "firstName": "Sherlock",
+              "lastName": "Homes",
+              "categories": [
+                  {
+                      "CategoryID": 1,
+                      "CategoryName": "Example"
+                  }
+              ]
+          },
+          {
+              "MainId": 122,
+              "firstName": "James",
+              "lastName": "Watson",
+              "categories": [
+                  {
+                      "CategoryID": 2,
+                      "CategoryName": "Example2"
+                  }
+              ]
+          }
+      ],
+      "messages": [],
+      "success": true 
+      },
+      "Labels": {
+  
+       "Wednesday ": "20200809",
+  
+        "Monday": "8888888",
+  
+        "Saturday": "99999",
+  
+        "Thursday": "1.0000",
+  
+        "Welcome": "526942",
+  
+        "Data": "9.36942"
+  
+       
+  
+      },
+  
+      "Stop": ""  
+  }
+  
+   
+    
+  
+  
